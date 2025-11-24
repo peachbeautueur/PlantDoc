@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+data/PlantDoc/
+data/yolo/images/
+data/yolo/labels/
+exp/
+*.pt
+runs/
+wandb/
+.DS_Store
+.idea/
+.vscode/
