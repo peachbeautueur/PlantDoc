@@ -1,0 +1,6 @@
+﻿path: ./data/yolo
+train: ./data/splits/train.txt
+val: ./data/splits/val.txt
+test: ./data/splits/test.txt
+names:
+  0: class_0
